@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Api-Test</title>
+</head>
+<body>
+    <button id="btnGetAll">Get All Students</button><br> <br />
+    <input id="txtPersonid" type="text" placeholder="Person by id" />
+    <button id="btnGet">Get by id</button> <br> <br />
+
+    <label for="txtId">ID:</label>
+    <input id="txtId" type="text" placeholder="Enter ID" /><br>
+
+    <label for="txtName">Name:</label>
+    <input id="txtName" type="text" placeholder="Enter Name" /><br>
+
+    <label for="txtAddress">Address:</label>
+    <input id="txtAddress" type="text" placeholder="Enter Address" /><br>
+
+    <label for="txtPhone">Phone:</label>
+    <input id="txtPhone" type="text" placeholder="Enter Phone" /><br>
+
+    <label for="txtEmail">Email:</label>
+    <input id="txtEmail" type="text" placeholder="Enter Email" /><br>
+
+    <button id="btnAdd">Add</button> <br> <br />
+
+    <input id="txtPersonid2" type="text" placeholder="Person by id for Dlt" />
+    <button id="btnDelete">Delete</button> <br> <br />
+
+
+
+
+
+
+</body>
+</html>
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+
+<script type="text/javascript">$(document).ready(function () {
+        $("#btnGetAll").click(function () {
+            fetch("https://localhost:7173/api/Person", {
+                method: 'GET',
+                mode: 'cors' // Specify CORS mode here
+            })
+                .then(res => {
+                    return res.json();
+                })
+                .then(data => console.log(data))
+                .catch(error => console.log(error))
+        });
+    });</script>
+
+
+
+<script type="text/javascript">$(document).ready(function () {
+        $("#btnGet").click(function () {
+            // Get the person ID from the input field
+            var personId = $("#txtPersonid").val();
+
+            // Construct the URL to fetch a person by ID
+            var apiUrl = "https://localhost:7173/api/Person/" + personId;
+
+            fetch(apiUrl, {
+                method: 'GET',
+                mode: 'cors'
+            })
+                .then(res => {
+                    return res.json();
+                })
+                .then(data => console.log(data))
+                .catch(error => console.log(error))
+        });
+    });</script>
+
+
+<script type="text/javascript">$(document).ready(function () {
+        $("#btnAdd").click(function () {
+            // Get values from input fields
+            var personId = $("#txtId").val();
+            var name = $("#txtName").val();
+            var address = $("#txtAddress").val();
+            var phone = $("#txtPhone").val();
+            var email = $("#txtEmail").val();
+
+            // Create a JSON object to send to the API
+            var newPerson = {
+                id: personId,
+                name: name,
+                address: address,
+                phone: phone,
+                email: email
+            };
+
+            // Construct the URL to add a new person
+            var apiUrl = "https://localhost:7173/api/Person";
+
+            fetch(apiUrl, {
+                method: 'POST',
+                mode: 'cors',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(newPerson)
+            })
+                .then(res => {
+                    return res.json();
+                })
+                .then(data => console.log(data))
+                .catch(error => console.log(error))
+        });
+    });</script>
+
+
+
+<script type="text/javascript">$(document).ready(function () {
+        $("#btnDelete").click(function () {
+            // Get the person ID from the input field
+            var personId = $("#txtPersonid2").val();
+
+            // Construct the URL to delete a person by ID
+            var apiUrl = "https://localhost:7173/api/Person/" + personId;
+
+            fetch(apiUrl, {
+                method: 'DELETE',
+                mode: 'cors'
+            })
+                .then(res => {
+                    if (res.ok) {
+                        console.log("Person deleted successfully.");
+                    } else {
+                        console.log("Failed to delete person. Status: " + res.status);
+                    }
+                })
+                .catch(error => console.log(error))
+        });
+    });</script>

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B0882665-05EA-40CC-9CF6-C875DA41B721}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="api_front/wwwroot/index.html">
+    <Files>
+      <File FileName="api_front/Program.cs" Line="1" Column="1" />
+      <File FileName="api_front/wwwroot/index.html" Line="50" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="api_front" expanded="True">
+            <Node name="api_front" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="index.html" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.api__front PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
