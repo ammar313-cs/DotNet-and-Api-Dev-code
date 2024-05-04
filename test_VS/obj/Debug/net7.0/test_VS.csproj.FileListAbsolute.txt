@@ -1,0 +1,15 @@
+/Volumes/OVERLORD1 6/dotnet_files/test_VS/bin/Debug/net7.0/test_VS
+/Volumes/OVERLORD1 6/dotnet_files/test_VS/bin/Debug/net7.0/test_VS.deps.json
+/Volumes/OVERLORD1 6/dotnet_files/test_VS/bin/Debug/net7.0/test_VS.runtimeconfig.json
+/Volumes/OVERLORD1 6/dotnet_files/test_VS/bin/Debug/net7.0/test_VS.dll
+/Volumes/OVERLORD1 6/dotnet_files/test_VS/bin/Debug/net7.0/test_VS.pdb
+/Volumes/OVERLORD1 6/dotnet_files/test_VS/obj/Debug/net7.0/test_VS.csproj.AssemblyReference.cache
+/Volumes/OVERLORD1 6/dotnet_files/test_VS/obj/Debug/net7.0/test_VS.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/OVERLORD1 6/dotnet_files/test_VS/obj/Debug/net7.0/test_VS.AssemblyInfoInputs.cache
+/Volumes/OVERLORD1 6/dotnet_files/test_VS/obj/Debug/net7.0/test_VS.AssemblyInfo.cs
+/Volumes/OVERLORD1 6/dotnet_files/test_VS/obj/Debug/net7.0/test_VS.csproj.CoreCompileInputs.cache
+/Volumes/OVERLORD1 6/dotnet_files/test_VS/obj/Debug/net7.0/test_VS.dll
+/Volumes/OVERLORD1 6/dotnet_files/test_VS/obj/Debug/net7.0/refint/test_VS.dll
+/Volumes/OVERLORD1 6/dotnet_files/test_VS/obj/Debug/net7.0/test_VS.pdb
+/Volumes/OVERLORD1 6/dotnet_files/test_VS/obj/Debug/net7.0/test_VS.genruntimeconfig.cache
+/Volumes/OVERLORD1 6/dotnet_files/test_VS/obj/Debug/net7.0/ref/test_VS.dll
