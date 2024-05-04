@@ -1,0 +1,45 @@
+﻿[
+  {
+    "ID": 1,
+    "Name": "JohnDoe",
+    "Role": "User",
+    "Password": "john@123"
+  },
+  {
+    "ID": 2,
+    "Name": "Jane Smith",
+    "Role": "User",
+    "Password": "jane@456"
+  },
+  {
+    "ID": 3,
+    "Name": "SuperUser1",
+    "Role": "SuperUser",
+    "Password": "super@1"
+  },
+  {
+    "ID": 4,
+    "Name": "SuperUser2",
+    "Role": "SuperUser",
+    "Password": "super@2"
+  },
+  {
+    "ID": 5,
+    "Name": "SuperUser3",
+    "Role": "SuperUser",
+    "Password": "super@3"
+  },
+  {
+    "ID": 6,
+    "Name": "Admin1",
+    "Role": "Admin",
+    "Password": "admin@1"
+  },
+  {
+    "ID": 7,
+    "Name": "Admin2",
+    "Role": "Admin",
+    "Password": "admin@2"
+  }
+]
+

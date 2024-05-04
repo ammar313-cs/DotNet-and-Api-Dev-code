@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{DA7B157E-278E-4E2A-8079-E251CDEFDD55}|Default">
+  <MonoDevelop.Ide.ItemProperties.api__crud PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="api_crud/appsettings.json">
+    <Files>
+      <File FileName="api_crud/Handlers/AuthorizationHandler.cs" Line="31" Column="1" />
+      <File FileName="api_crud/Controllers/PersonController.cs" Line="73" Column="26" />
+      <File FileName="api_crud/Configuration/ControllerAccessConfig.cs" Line="10" Column="1" />
+      <File FileName="api_crud/Handlers/DynamicRoleRequirement.cs" Line="5" Column="2" />
+      <File FileName="api_crud/Program.cs" Line="68" Column="1" />
+      <File FileName="api_crud/appsettings.json" Line="10" Column="30" />
+      <File FileName="api_crud/appsettings.Development.json" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="api_crud" expanded="True">
+            <Node name="api_crud" expanded="True">
+              <Node name="App_Data" expanded="True" />
+              <Node name="Configuration" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Handlers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repository " expanded="True" />
+              <Node name="appsettings.json" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

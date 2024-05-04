@@ -1,0 +1,10 @@
+﻿{
+  "Controllers": {
+    "Person": {
+      "Admin": [ "Get", "GetById", "Put", "Post", "Delete" ],
+      "SuperUser": [ "Get", "GetById", "Put", "Delete" ],
+      "User": [ "Get", "GetById" ]
+    }
+
+  }
+}
