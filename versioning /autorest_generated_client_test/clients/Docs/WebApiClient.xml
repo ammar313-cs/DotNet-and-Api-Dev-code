@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <members>
+    <member name="GetNoteAsync(string,RequestContext)">
+<example>
+This sample shows how to call GetNoteAsync with required parameters and parse the result.
+<code><![CDATA[
+var client = new WebApiClient();
+
+Response response = await client.GetNoteAsync("<version>", new RequestContext());
+
+JsonElement result = JsonDocument.Parse(response.ContentStream).RootElement;
+Console.WriteLine(result[0].GetProperty("id").ToString());
+Console.WriteLine(result[0].GetProperty("title").ToString());
+Console.WriteLine(result[0].GetProperty("content").ToString());
+]]></code>
+</example>
+    </member>
+    <member name="GetNote(string,RequestContext)">
+<example>
+This sample shows how to call GetNote with required parameters and parse the result.
+<code><![CDATA[
+var client = new WebApiClient();
+
+Response response = client.GetNote("<version>", new RequestContext());
+
+JsonElement result = JsonDocument.Parse(response.ContentStream).RootElement;
+Console.WriteLine(result[0].GetProperty("id").ToString());
+Console.WriteLine(result[0].GetProperty("title").ToString());
+Console.WriteLine(result[0].GetProperty("content").ToString());
+]]></code>
+</example>
+    </member>
+    <member name="CreateNoteAsync(string,RequestContent,ContentType,RequestContext)">
+<example>
+This sample shows how to call CreateNoteAsync with required parameters and parse the result.
+<code><![CDATA[
+var client = new WebApiClient();
+
+var data = new {};
+
+Response response = await client.CreateNoteAsync("<version>", RequestContent.Create(data), ContentType.ApplicationOctetStream);
+
+JsonElement result = JsonDocument.Parse(response.ContentStream).RootElement;
+Console.WriteLine(result.ToString());
+]]></code>
+This sample shows how to call CreateNoteAsync with all parameters and request content, and how to parse the result.
+<code><![CDATA[
+var client = new WebApiClient();
+
+var data = new {
+    id = 1234,
+    title = "<title>",
+    content = "<content>",
+};
+
+Response response = await client.CreateNoteAsync("<version>", RequestContent.Create(data), ContentType.ApplicationOctetStream);
+
+JsonElement result = JsonDocument.Parse(response.ContentStream).RootElement;
+Console.WriteLine(result.GetProperty("id").ToString());
+Console.WriteLine(result.GetProperty("title").ToString());
+Console.WriteLine(result.GetProperty("content").ToString());
+]]></code>
+</example>
+    </member>
+    <member name="CreateNote(string,RequestContent,ContentType,RequestContext)">
+<example>
+This sample shows how to call CreateNote with required parameters and parse the result.
+<code><![CDATA[
+var client = new WebApiClient();
+
+var data = new {};
+
+Response response = client.CreateNote("<version>", RequestContent.Create(data), ContentType.ApplicationOctetStream);
+
+JsonElement result = JsonDocument.Parse(response.ContentStream).RootElement;
+Console.WriteLine(result.ToString());
+]]></code>
+This sample shows how to call CreateNote with all parameters and request content, and how to parse the result.
+<code><![CDATA[
+var client = new WebApiClient();
+
+var data = new {
+    id = 1234,
+    title = "<title>",
+    content = "<content>",
+};
+
+Response response = client.CreateNote("<version>", RequestContent.Create(data), ContentType.ApplicationOctetStream);
+
+JsonElement result = JsonDocument.Parse(response.ContentStream).RootElement;
+Console.WriteLine(result.GetProperty("id").ToString());
+Console.WriteLine(result.GetProperty("title").ToString());
+Console.WriteLine(result.GetProperty("content").ToString());
+]]></code>
+</example>
+    </member>
+    <member name="GetNoteByIdAsync(string,int,RequestContext)">
+<example>
+This sample shows how to call GetNoteByIdAsync with required parameters and parse the result.
+<code><![CDATA[
+var client = new WebApiClient();
+
+Response response = await client.GetNoteByIdAsync("<version>", 1234, new RequestContext());
+
+JsonElement result = JsonDocument.Parse(response.ContentStream).RootElement;
+Console.WriteLine(result.GetProperty("id").ToString());
+Console.WriteLine(result.GetProperty("title").ToString());
+Console.WriteLine(result.GetProperty("content").ToString());
+]]></code>
+</example>
+    </member>
+    <member name="GetNoteById(string,int,RequestContext)">
+<example>
+This sample shows how to call GetNoteById with required parameters and parse the result.
+<code><![CDATA[
+var client = new WebApiClient();
+
+Response response = client.GetNoteById("<version>", 1234, new RequestContext());
+
+JsonElement result = JsonDocument.Parse(response.ContentStream).RootElement;
+Console.WriteLine(result.GetProperty("id").ToString());
+Console.WriteLine(result.GetProperty("title").ToString());
+Console.WriteLine(result.GetProperty("content").ToString());
+]]></code>
+</example>
+    </member>
+    <member name="UpdateNoteByIdAsync(string,int,RequestContent,ContentType,RequestContext)">
+<example>
+This sample shows how to call UpdateNoteByIdAsync with required parameters.
+<code><![CDATA[
+var client = new WebApiClient();
+
+var data = new {};
+
+Response response = await client.UpdateNoteByIdAsync("<version>", 1234, RequestContent.Create(data), ContentType.ApplicationOctetStream);
+Console.WriteLine(response.Status);
+]]></code>
+This sample shows how to call UpdateNoteByIdAsync with all parameters and request content.
+<code><![CDATA[
+var client = new WebApiClient();
+
+var data = new {
+    id = 1234,
+    title = "<title>",
+    content = "<content>",
+};
+
+Response response = await client.UpdateNoteByIdAsync("<version>", 1234, RequestContent.Create(data), ContentType.ApplicationOctetStream);
+Console.WriteLine(response.Status);
+]]></code>
+</example>
+    </member>
+    <member name="UpdateNoteById(string,int,RequestContent,ContentType,RequestContext)">
+<example>
+This sample shows how to call UpdateNoteById with required parameters.
+<code><![CDATA[
+var client = new WebApiClient();
+
+var data = new {};
+
+Response response = client.UpdateNoteById("<version>", 1234, RequestContent.Create(data), ContentType.ApplicationOctetStream);
+Console.WriteLine(response.Status);
+]]></code>
+This sample shows how to call UpdateNoteById with all parameters and request content.
+<code><![CDATA[
+var client = new WebApiClient();
+
+var data = new {
+    id = 1234,
+    title = "<title>",
+    content = "<content>",
+};
+
+Response response = client.UpdateNoteById("<version>", 1234, RequestContent.Create(data), ContentType.ApplicationOctetStream);
+Console.WriteLine(response.Status);
+]]></code>
+</example>
+    </member>
+    <member name="DeleteNoteByIdAsync(string,int,RequestContext)">
+<example>
+This sample shows how to call DeleteNoteByIdAsync with required parameters.
+<code><![CDATA[
+var client = new WebApiClient();
+
+Response response = await client.DeleteNoteByIdAsync("<version>", 1234);
+Console.WriteLine(response.Status);
+]]></code>
+</example>
+    </member>
+    <member name="DeleteNoteById(string,int,RequestContext)">
+<example>
+This sample shows how to call DeleteNoteById with required parameters.
+<code><![CDATA[
+var client = new WebApiClient();
+
+Response response = client.DeleteNoteById("<version>", 1234);
+Console.WriteLine(response.Status);
+]]></code>
+</example>
+    </member>
+  </members>
+</doc>

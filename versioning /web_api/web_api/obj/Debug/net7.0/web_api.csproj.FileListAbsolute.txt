@@ -1,0 +1,168 @@
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/appsettings.Development.json
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/appsettings.json
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Data/notes.json
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.deps.json
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.runtimeconfig.json
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.dll
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.pdb
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.csproj.AssemblyReference.cache
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.AssemblyInfoInputs.cache
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.AssemblyInfo.cs
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.csproj.CoreCompileInputs.cache
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.web_api.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.build.web_api.props
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.web_api.props
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.web_api.props
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets.pack.json
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets.build.json
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets.development.json
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/scopedcss/bundle/web_api.styles.css
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.csproj.CopyComplete
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.dll
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/refint/web_api.dll
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.pdb
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.genruntimeconfig.cache
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/ref/web_api.dll
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/OVERLORD1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.Versioning.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/appsettings.Development.json
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/appsettings.json
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Data/notes.json
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.deps.json
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.runtimeconfig.json
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.pdb
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.Versioning.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.csproj.AssemblyReference.cache
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.AssemblyInfoInputs.cache
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.AssemblyInfo.cs
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.csproj.CoreCompileInputs.cache
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.web_api.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.build.web_api.props
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.web_api.props
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.web_api.props
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets.pack.json
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets.build.json
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets.development.json
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/scopedcss/bundle/web_api.styles.css
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.csproj.CopyComplete
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/refint/web_api.dll
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.pdb
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.genruntimeconfig.cache
+/Volumes/OVERLORD1 1/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/ref/web_api.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/appsettings.Development.json
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/appsettings.json
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Data/notes.json
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.deps.json
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.runtimeconfig.json
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.pdb
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.Versioning.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.csproj.AssemblyReference.cache
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.AssemblyInfoInputs.cache
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.AssemblyInfo.cs
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.csproj.CoreCompileInputs.cache
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.web_api.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.build.web_api.props
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.web_api.props
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.web_api.props
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets.pack.json
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets.build.json
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets.development.json
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/scopedcss/bundle/web_api.styles.css
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.csproj.CopyComplete
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/refint/web_api.dll
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.pdb
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.genruntimeconfig.cache
+/Volumes/OVERLORD1 3/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/ref/web_api.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/appsettings.Development.json
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/appsettings.json
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Data/notes.json
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.deps.json
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.runtimeconfig.json
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/web_api.pdb
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.Versioning.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.csproj.AssemblyReference.cache
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.AssemblyInfoInputs.cache
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.AssemblyInfo.cs
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.csproj.CoreCompileInputs.cache
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.web_api.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.build.web_api.props
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.web_api.props
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.web_api.props
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets.pack.json
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets.build.json
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/staticwebassets.development.json
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/scopedcss/bundle/web_api.styles.css
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.csproj.CopyComplete
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/refint/web_api.dll
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.pdb
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/web_api.genruntimeconfig.cache
+/Volumes/OVERLORD1 5/dotnet_files/versioning /web_api/web_api/obj/Debug/net7.0/ref/web_api.dll
