@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/DrapperASPNETCORE.csproj": {}
+  },
+  "projects": {
+    "/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/DrapperASPNETCORE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/DrapperASPNETCORE.csproj",
+        "projectName": "DrapperASPNETCORE",
+        "projectPath": "/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/DrapperASPNETCORE.csproj",
+        "packagesPath": "/Users/ammarfarrukh/.nuget/packages/",
+        "outputPath": "/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ammarfarrukh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.304/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.143, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

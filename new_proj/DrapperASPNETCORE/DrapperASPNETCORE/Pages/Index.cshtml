@@ -1,0 +1,39 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    
+    <button onclick="executeMyFunction()">Click</button>
+
+    
+
+</div>
+
+@section Scripts {
+    <script>async function executeMyFunction() {
+            try {
+                const response = await fetch('/api/Test', {
+                    method: 'GET'
+                });
+
+                if (response.ok) {
+                    const result = await response.text();
+                   
+                    alert(result);
+                } else {
+                    console.error('Function execution failed');
+                    alert("Error");
+                }
+            } catch (error) {
+                console.error(error);
+            }
+        }</script>
+}
+
+

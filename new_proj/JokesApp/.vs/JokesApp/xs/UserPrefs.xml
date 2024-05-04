@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{A0F17ADA-77A6-4B8E-B228-19C19077D020}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="JokesApp/appsettings.json">
+    <Files>
+      <File FileName="JokesApp/Models/joke.cs" Line="1" Column="1" />
+      <File FileName="JokesApp/Repository/JokeRepository.cs" Line="6" Column="3" />
+      <File FileName="JokesApp/Program.cs" Line="11" Column="4" />
+      <File FileName="JokesApp/appsettings.json" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JokesApp" expanded="True">
+            <Node name="JokesApp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="context" expanded="True" />
+              <Node name="contracts " expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Jokes" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.JokesApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

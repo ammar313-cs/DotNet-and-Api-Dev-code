@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{9223F802-79FE-475D-9356-A9653C44BF99}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DrapperASPNETCORE/Controllers/JokesController.cs">
+    <Files>
+      <File FileName="DrapperASPNETCORE/Pages/jokes.cshtml" />
+      <File FileName="DrapperASPNETCORE/context/Repository/JokeRepository.cs" Line="52" Column="1" />
+      <File FileName="DrapperASPNETCORE/context/contracts/IJokeRepository.cs" />
+      <File FileName="DrapperASPNETCORE/context/JokeContext.cs" Line="1" Column="1" />
+      <File FileName="DrapperASPNETCORE/data/mydata.json" />
+      <File FileName="DrapperASPNETCORE/Controllers/JokesController.cs" Line="5" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DrapperASPNETCORE" expanded="True">
+            <Node name="DrapperASPNETCORE" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="context" expanded="True">
+                <Node name="contracts" expanded="True" />
+                <Node name="Repository" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="JokesController.cs" selected="True" />
+              </Node>
+              <Node name="data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Error.cshtml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DrapperASPNETCORE PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

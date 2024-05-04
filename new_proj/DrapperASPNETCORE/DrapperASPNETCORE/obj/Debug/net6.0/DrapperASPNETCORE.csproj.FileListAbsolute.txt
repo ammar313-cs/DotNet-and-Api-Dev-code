@@ -1,0 +1,328 @@
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.csproj.AssemblyReference.cache
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.AssemblyInfoInputs.cache
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.AssemblyInfo.cs
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.csproj.CoreCompileInputs.cache
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.RazorAssemblyInfo.cache
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.RazorAssemblyInfo.cs
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/appsettings.Development.json
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/appsettings.json
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/DrapperASPNETCORE.staticwebassets.runtime.json
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/DrapperASPNETCORE
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/DrapperASPNETCORE.deps.json
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/DrapperASPNETCORE.runtimeconfig.json
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/DrapperASPNETCORE.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/DrapperASPNETCORE.pdb
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Azure.Core.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Azure.Identity.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Dapper.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Drawing.Common.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Memory.Data.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Security.Permissions.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/staticwebassets/msbuild.DrapperASPNETCORE.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/staticwebassets/msbuild.build.DrapperASPNETCORE.props
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.DrapperASPNETCORE.props
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.DrapperASPNETCORE.props
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/staticwebassets.pack.json
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/staticwebassets.build.json
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/staticwebassets.development.json
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/scopedcss/bundle/DrapperASPNETCORE.styles.css
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/scopedcss/projectbundle/DrapperASPNETCORE.bundle.scp.css
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.csproj.CopyComplete
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/refint/DrapperASPNETCORE.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.pdb
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.genruntimeconfig.cache
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/ref/DrapperASPNETCORE.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/appsettings.Development.json
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/appsettings.json
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/DrapperASPNETCORE.staticwebassets.runtime.json
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/DrapperASPNETCORE
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/DrapperASPNETCORE.deps.json
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/DrapperASPNETCORE.runtimeconfig.json
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/DrapperASPNETCORE.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/DrapperASPNETCORE.pdb
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Azure.Core.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Azure.Identity.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Dapper.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Drawing.Common.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Memory.Data.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Security.Permissions.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.csproj.AssemblyReference.cache
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.AssemblyInfoInputs.cache
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.AssemblyInfo.cs
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.csproj.CoreCompileInputs.cache
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.RazorAssemblyInfo.cache
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.RazorAssemblyInfo.cs
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/staticwebassets/msbuild.DrapperASPNETCORE.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/staticwebassets/msbuild.build.DrapperASPNETCORE.props
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.DrapperASPNETCORE.props
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.DrapperASPNETCORE.props
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/staticwebassets.pack.json
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/staticwebassets.build.json
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/staticwebassets.development.json
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/scopedcss/bundle/DrapperASPNETCORE.styles.css
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/scopedcss/projectbundle/DrapperASPNETCORE.bundle.scp.css
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.csproj.CopyComplete
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/refint/DrapperASPNETCORE.dll
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.pdb
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/DrapperASPNETCORE.genruntimeconfig.cache
+/Volumes/OVERLORD1 1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/obj/Debug/net6.0/ref/DrapperASPNETCORE.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Humanizer.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/MessagePack.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/MessagePack.Annotations.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.Build.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.Build.Framework.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.NET.StringTools.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/NuGet.Common.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/NuGet.Configuration.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/NuGet.Packaging.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/NuGet.Protocol.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/NuGet.Versioning.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Composition.Convention.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Composition.Hosting.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Composition.Runtime.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/System.Reflection.MetadataLoadContext.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/af/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ar/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/az/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/bg/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/bn-BD/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/cs/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/da/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/de/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/el/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/es/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/fa/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/fi-FI/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/fr/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/fr-BE/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/he/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/hr/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/hu/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/hy/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/id/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/is/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/it/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ja/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ko-KR/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ku/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/lv/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ms-MY/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/mt/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/nb/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/nb-NO/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/nl/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pl/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pt/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ro/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ru/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/sk/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/sl/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/sr/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/sr-Latn/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/sv/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/th-TH/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/tr/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/uk/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/uz-Latn-UZ/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/vi/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-CN/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hans/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hant/Humanizer.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/OVERLORD1/dotnet_files/new_proj/DrapperASPNETCORE/DrapperASPNETCORE/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll

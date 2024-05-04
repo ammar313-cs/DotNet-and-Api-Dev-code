@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{C5CB9947-E61F-4240-82AD-0B1AF0BDE81E}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="prac_proj/Views/Category/Index.cshtml">
+    <Files>
+      <File FileName="prac_proj/Program.cs" Line="13" Column="33" />
+      <File FileName="prac_proj/Data/ApplicationDbContext.cs" Line="15" Column="3" />
+      <File FileName="prac_proj/appsettings.json" Line="11" Column="33" />
+      <File FileName="prac_proj/Controllers/CategoryController.cs" Line="65" Column="39" />
+      <File FileName="prac_proj/Views/Category/Index.cshtml" Line="15" Column="11" />
+      <File FileName="prac_proj/Views/Category/Create.cshtml" Line="12" Column="39" />
+      <File FileName="prac_proj/Models/category.cs" Line="16" Column="48" />
+      <File FileName="prac_proj/Views/Category/Edit.cshtml" Line="9" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="prac_proj" expanded="True">
+            <Node name="prac_proj" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Category" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.prac__proj PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
