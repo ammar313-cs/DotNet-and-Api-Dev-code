@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JsonCRUD/AppCode/CrmCrud.cs">
+    <Files>
+      <File FileName="JsonCRUD/Control/DataEntryControl.xaml" />
+      <File FileName="JsonCRUD/Models/CrmDto.cs" Line="16" Column="13" />
+      <File FileName="JsonCRUD/Control/DataEntryControl.xaml.cs" />
+      <File FileName="JsonCRUD/AppCode/CrmCrud.cs" Line="99" Column="30" />
+      <File FileName="JsonCRUD/mydata.json" />
+      <File FileName="JsonCRUD/App.xaml" Line="1" Column="1" />
+      <File FileName="JsonCRUD/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="JsonCRUD/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="JsonCRUD/MainWindow.xaml" Line="1" Column="1" />
+      <File FileName="JsonCRUD/MainWindow.xaml.cs" Line="1" Column="1" />
+      <File FileName="JsonCRUD/Models/UIType.cs" Line="1" Column="1" />
+      <File FileName="JsonCRUD/Models/Crm.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JsonCRUD" expanded="True">
+            <Node name="JsonCRUD" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="AppCode" expanded="True">
+                <Node name="CrmCrud.cs" selected="True" />
+              </Node>
+              <Node name="Control" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

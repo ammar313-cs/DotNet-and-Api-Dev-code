@@ -1,0 +1,91 @@
+﻿<Application x:Class="JsonCRUD.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:JsonCRUD"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        
+        <Style x:Key="GridAroundList" TargetType="Grid">
+            <Setter Property="VerticalAlignment" Value="Top" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+        </Style>
+        
+        <Style x:Key="SVAroundList" TargetType="ScrollViewer">
+            <Setter Property="Foreground" Value="Black" />
+            <Setter Property="VerticalAlignment" Value="Top" />
+            <Setter Property="VerticalScrollBarVisibility" Value="Auto" />
+        </Style>
+        
+        <Style x:Key="ListButton" TargetType="Button">
+            <Setter Property="Margin" Value="5,0,0,0" />
+            <Setter Property="Foreground" Value="DarkGreen" />
+            <Setter Property="VerticalAlignment" Value="Top" />
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="Width" Value="60" />
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+        </Style>
+
+        <Style x:Key="DataEntryBorder" TargetType="Border">
+            <Setter Property="CornerRadius" Value="4" />
+            <Setter Property="BorderBrush" Value="Black" />
+            <Setter Property="BorderThickness" Value="2" />
+        </Style>
+
+        <Style x:Key="DataEntryControlGrid" TargetType="Grid">
+            <Setter Property="VerticalAlignment" Value="Top" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="Background" Value="LightGreen" />
+            <Setter Property="Visibility" Value="Visible" />
+            <Setter Property="Width" Value="400" />
+        </Style>
+
+
+        <Style x:Key="DataEntryHeader" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Gold" />
+            <Setter Property="Background" Value="Black" />
+            <Setter Property="Padding" Value="80,0,0,0" />
+            <Setter Property="FontSize" Value="28" />
+            <Setter Property="Width" Value="400" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+        </Style>
+        
+        <Style x:Key="DataEntryTitle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Gold" />
+            <Setter Property="Background" Value="Black" />
+            <Setter Property="Padding" Value="100,0,0,0" />
+            <Setter Property="FontSize" Value="28" />
+            <Setter Property="Width" Value="400" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+        </Style>
+        <Style x:Key="TextBlockBlack16Left" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="#000000" />
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+        </Style>
+        <Style x:Key="TextBlockBlack16Center" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="#000000" />
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+        </Style>
+
+        
+        <Style x:Key="DataEntryTextBlockBlack16Left" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="#000000" />
+            <Setter Property="FontSize" Value="20" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Setter Property="Width" Value="34" />
+            <Setter Property="Margin" Value="41,20,0,0" />
+        </Style>
+        <Style x:Key="TextBoxInput" TargetType="TextBox">
+            <Setter Property="Padding" Value="3,7,3,3" />
+            <Setter Property="BorderBrush" Value="LightGray" />
+            <Setter Property="Foreground" Value="#000000" />
+            <Setter Property="Background" Value="LightYellow" />
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="Width" Value="240" />
+            <Setter Property="MaxLength" Value="36" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+        </Style>
+        
+    </Application.Resources>
+</Application>
